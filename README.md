@@ -47,3 +47,11 @@ The project demonstrates how raw government data can be transformed into a relat
 - Historical BCI trend chart
 - Bottom 10 highways by average recorded BCI
 - Interactive
+
+## Power BI Dashboard Screenshots
+
+### Bridge Overview
+![Bridge Overview](Screenshot%202026-10-20%20235949.png)
+
+### Bridge Details
+![Bridge Details](Screenshot%202026-10-21%20000045.png)
